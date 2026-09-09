@@ -40,7 +40,7 @@ library-management-system/
 
 ### Prerequisites
 
-- XAMPP / WAMP (or any PHP + MySQL server environment)
+- XAMPP
 - Web browser
 
 ### Installation
@@ -55,7 +55,7 @@ library-management-system/
 5. Start Apache & MySQL from your XAMPP/WAMP control panel
 6. Open your browser and navigate to:
    ```
-   http://localhost/library-management-system/
+   http://localhost/Library system
    ```
 
 ## User Roles
