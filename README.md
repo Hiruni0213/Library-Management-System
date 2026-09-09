@@ -1,16 +1,16 @@
-# 📚 Library Management System
+#  Library Management System
 
 A web-based Library Management System with separate portals for Admins, Librarians, and Members — supporting book cataloging, member registration, and borrow/return operations.
 
 ## Features
 
-- 🔐 Authentication system for different user roles (Admin, Librarian, Member)
-- 🧑‍💼 **Admin** portal for overall system management
-- 👩‍💻 **Librarian** portal for managing books and library operations
-- 👤 **Member** portal for browsing and interacting with the library catalog
-- 📖 Book cataloging and management
-- 🔄 Borrow/return tracking
-- 📩 Contact/messaging functionality
+-  Authentication system for different user roles (Admin, Librarian, Member)
+-  **Admin** portal for overall system management
+-  **Librarian** portal for managing books and library operations
+-  **Member** portal for browsing and interacting with the library catalog
+-  Book cataloging and management
+-  Borrow/return tracking
+-  Contact/messaging functionality
 
 ## Tech Stack
 
