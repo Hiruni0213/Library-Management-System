@@ -4,12 +4,6 @@
 
 A web-based Library Management System with dedicated portals for Admins, Librarians, and Members — streamlining book cataloging, member management, and borrow/return operations.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
 
 ---
 
@@ -65,7 +59,7 @@ library-management-system/
 
 ### Prerequisites
 
-- XAMPP / WAMP (or any PHP + MySQL server environment)
+- XAMPP
 - A web browser
 
 ### Installation
@@ -83,7 +77,7 @@ library-management-system/
 5. Start your server — launch Apache & MySQL from your control panel
 6. Open in browser
    ```
-   http://localhost/library-management-system/
+   http://localhost/Library system
    ```
 
 ## Screenshots
